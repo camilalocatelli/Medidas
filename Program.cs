@@ -1,7 +1,7 @@
 ﻿double m, cm, km;
 
 Console.Write("Digite uma medida em metros: ");
-m = Convert.ToDouble (Console.ReadLine());
+m = Convert.ToDouble (Console.ReadLine()!);
 
 Console.WriteLine("");
 
